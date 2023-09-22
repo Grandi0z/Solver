@@ -21,7 +21,7 @@ class Solver
     result += 'buzz' if (numb % 5).zero?
 
     return numb.to_s if result.empty?
-    
+
     result
   end
 end
