@@ -154,6 +154,6 @@ Special Thanks to the Microverse and Micronauts.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Grandi0z/Solver/blob/work/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
