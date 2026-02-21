@@ -18,7 +18,7 @@ class Solver
   end
 
   def fizzbuzz(numb)
-    raise ArgumentError, 'must be an integer' unless numb.is_a?(Integer)
+    raise ArgumentError, 'numb must be an integer' unless numb.is_a?(Integer)
 
     result = ''
 
